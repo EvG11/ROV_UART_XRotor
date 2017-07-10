@@ -1,0 +1,179 @@
+
+16:56:04 
+	NAPRED
+
+
+16:56:06 
+	NAZAD
+
+
+16:56:08 
+	LEVO
+
+
+16:56:09 
+	DESNO
+
+
+16:56:10 
+	NAPRED
+
+
+16:56:13 
+	STOP
+
+
+16:56:16 
+	LEVO
+
+
+16:56:17 
+	STOP
+
+
+16:56:18 
+	NAPRED
+
+
+16:56:20 
+	STOP
+
+
+16:56:21 
+	ZARON
+
+
+16:56:22 
+	UKLJUCI SVETLO
+
+
+16:56:25 
+	ISKLJUCI SVETLO
+
+
+16:56:29 
+----------------------------------------
+
+	Pritisak:  998mbar
+	Dubina:  998cm
+	Dubina:  998 m
+
+	TEMPERATURA:   31°C
+-------------------------------------------
+
+
+16:56:32 
+	-Informacije-
+
+----------------------------------------
+	*LAKE ALARM:SUVO  661
+
+	*Baterija:11,58 V
+
+	*Amperaza
+	-ESC_LEVI:1A
+
+	-ESC_DESNI:1A
+
+	-ESC_THRUSTER:1A
+
+	*SVETLO:1A
+
+
+----------------------------------------
+16:56:34 
+	STOP
+
+
+16:56:35 
+	IZRONZA PREKID 
+16:56:36 IZRONA : + a zatim C
+
+
+16:56:37 
+	ZARON
+
+
+	STOP
+
+
+16:56:39 
+	STOP
+
+
+	STOP
+
+
+16:56:41 
+----------------------------------------
+
+	Pritisak:  998mbar
+	Dubina:  998cm
+	Dubina:  998 m
+
+	TEMPERATURA:   31°C
+-------------------------------------------
+
+
+16:56:44 
+	-Informacije-
+
+----------------------------------------
+	*LAKE ALARM:SUVO  966
+
+	*Baterija:11,58 V
+
+	*Amperaza
+	-ESC_LEVI:1A
+
+	-ESC_DESNI:1A
+
+	-ESC_THRUSTER:1A
+
+	*SVETLO:1A
+
+
+-------
+16:56:45 ---------------------------------
+16:56:46 
+	-Informacije-
+
+----------------------------------------
+	*LAKE ALARM:SUVO  613
+
+	*Baterija:11,58 V
+
+	*Amperaza
+	-ESC_LEVI:1A
+
+
+16:56:47 	-ESC_DESNI:1A
+
+	-ESC_THRUSTER:1A
+
+	*SVETLO:1A
+
+
+----------------------------------------
+16:56:49 
+	-Informacije-
+
+----------------------------------------
+	*LAKE ALARM:SUVO  963
+
+	*Baterija:11,58 V
+
+	*Amperaza
+	-ESC_LEVI:1A
+
+	-ESC_DESNI:1A
+
+	-ESC_THRUSTER:1A
+
+	*SVETLO:1A
+
+
+----------------------------------------
+16:56:50 
+	STOP
+
